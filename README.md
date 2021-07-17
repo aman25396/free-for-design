@@ -1,5 +1,9 @@
 <div align="center">
-	<img width="500" height="350" src="logo.webp" alt="Awesome">
+  <img width="500" height="350" src="aman-mittal-ux-logo-white.png" alt="Aman Mittal">
+	<!-- <img width="500" height="350" src="logo.webp" alt="Awesome"> -->
+</div>
+
+<!-- <div align="center">
 	<br>
 	<br>
 	<hr>
@@ -81,10 +85,10 @@
 	<br>
 	<br>
 	<br>
-</div>
+</div> -->
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="amanmittal.me">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
@@ -94,7 +98,7 @@
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>Follow the <a href="https://twitter.com/aman_cml">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
