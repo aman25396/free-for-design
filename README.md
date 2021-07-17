@@ -1,6 +1,9 @@
 <div align="center">
-  <img width="500" height="350" src="aman-mittal-ux-logo-white.png" alt="Aman Mittal">
+  <img width="80" height="80" src="aman-mittal-ux-logo-white.png" alt="Aman Mittal">
 	<!-- <img width="500" height="350" src="logo.webp" alt="Awesome"> -->
+	<br>
+	<br>
+	
 </div>
 
 <!-- <div align="center">
@@ -87,24 +90,24 @@
 	<br>
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
 	<a href="amanmittal.me">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
-</p>
+</p> -->
 
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/aman_cml">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>Follow the <a href="https://twitter.com/aman_cml"> Free for Design Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://freefordesign.amanmittal.me"><code>freefordesign.amanmittal.me</code></a> to go here. Check out my <a href="https://www.amanmittal.me">website</a> and follow me on <a href="https://twitter.com/aman_cml">Twitter</a>.</sub>
 </p>
 <br>
 
