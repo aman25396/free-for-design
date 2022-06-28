@@ -130,6 +130,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 900+ p
 Table of Contents
 =================
 
+   * [Design Cultor](#design-cultor)
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
@@ -178,6 +179,10 @@ Table of Contents
    * [Commenting Platforms](#commenting-platforms)
    * [Browser based hardware emulation](#browser-based-hardware-emulation-written-in-javascript)
    * [Other Free Resources](#other-free-resources)
+
+## Design Cultor
+
+  * [Free Userpics pack](https://userpics.craftwork.design/) — 100 free userpics for your design projects completely Free!
 
 ## Major Cloud Providers
 
